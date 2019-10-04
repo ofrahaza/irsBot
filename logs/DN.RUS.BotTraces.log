@@ -1,0 +1,423 @@
+2019-10-04 11:37:26,295 INFO Traces [Thread-5] Starting FirefoxDriver
+2019-10-04 11:37:26,297 INFO Traces [Thread-5] Parameters {Issue type = WNOG, Issue status = test passed, Issue classification = ALL, Begin date = 2014-01-01, End date = 2019-04-26}
+2019-10-04 11:37:45,647 INFO Traces [Thread-5] Checking user Login
+2019-10-04 11:37:45,759 ERROR Traces [Thread-5] User Login - FALSE
+2019-10-04 11:37:45,760 INFO Traces [Thread-5] Logging...
+2019-10-04 11:37:55,716 INFO Traces [Thread-5] Loading issue array list, waiting for full page load 1 min...
+2019-10-04 11:38:17,391 INFO Traces [Thread-5] List page - true
+2019-10-04 11:38:21,380 INFO Traces [Thread-5] Generating issue list, count = 1
+2019-10-04 11:38:21,649 INFO Traces [Thread-5] Generating issue list, count = 2
+2019-10-04 11:38:21,737 INFO Traces [Thread-5] Generating issue list, count = 3
+2019-10-04 11:38:21,821 INFO Traces [Thread-5] Generating issue list, count = 4
+2019-10-04 11:38:21,906 INFO Traces [Thread-5] Generating issue list, count = 5
+2019-10-04 11:38:21,980 INFO Traces [Thread-5] Generating issue list, count = 6
+2019-10-04 11:38:22,053 INFO Traces [Thread-5] Generating issue list, count = 7
+2019-10-04 11:38:22,141 INFO Traces [Thread-5] Generating issue list, count = 8
+2019-10-04 11:38:22,215 INFO Traces [Thread-5] Generating issue list, count = 9
+2019-10-04 11:38:22,321 INFO Traces [Thread-5] Generating issue list, count = 10
+2019-10-04 11:38:22,397 INFO Traces [Thread-5] Generating issue list, count = 11
+2019-10-04 11:38:22,475 INFO Traces [Thread-5] Generating issue list, count = 12
+2019-10-04 11:38:22,554 INFO Traces [Thread-5] Generating issue list, count = 13
+2019-10-04 11:38:22,635 INFO Traces [Thread-5] Generating issue list, count = 14
+2019-10-04 11:38:22,801 INFO Traces [Thread-5] Generating issue list, count = 15
+2019-10-04 11:38:22,871 INFO Traces [Thread-5] Generating issue list, count = 16
+2019-10-04 11:38:22,952 INFO Traces [Thread-5] Generating issue list, count = 17
+2019-10-04 11:38:23,023 INFO Traces [Thread-5] Generating issue list, count = 18
+2019-10-04 11:38:23,098 INFO Traces [Thread-5] Generating issue list, count = 19
+2019-10-04 11:38:23,188 INFO Traces [Thread-5] Generating issue list, count = 20
+2019-10-04 11:38:23,254 INFO Traces [Thread-5] Generating issue list, count = 21
+2019-10-04 11:38:23,451 INFO Traces [Thread-5] Generating issue list, count = 22
+2019-10-04 11:38:23,584 INFO Traces [Thread-5] Generating issue list, count = 23
+2019-10-04 11:38:23,652 INFO Traces [Thread-5] Generating issue list, count = 24
+2019-10-04 11:38:23,720 INFO Traces [Thread-5] Generating issue list, count = 25
+2019-10-04 11:38:23,784 INFO Traces [Thread-5] Generating issue list, count = 26
+2019-10-04 11:38:23,849 INFO Traces [Thread-5] Generating issue list, count = 27
+2019-10-04 11:38:23,914 INFO Traces [Thread-5] Generating issue list, count = 28
+2019-10-04 11:38:23,979 INFO Traces [Thread-5] Generating issue list, count = 29
+2019-10-04 11:38:24,045 INFO Traces [Thread-5] Generating issue list, count = 30
+2019-10-04 11:38:24,122 INFO Traces [Thread-5] Generating issue list, count = 31
+2019-10-04 11:38:24,195 INFO Traces [Thread-5] Generating issue list, count = 32
+2019-10-04 11:38:24,257 INFO Traces [Thread-5] Generating issue list, count = 33
+2019-10-04 11:38:24,343 INFO Traces [Thread-5] Generating issue list, count = 34
+2019-10-04 11:38:24,406 INFO Traces [Thread-5] Generating issue list, count = 35
+2019-10-04 11:38:24,484 INFO Traces [Thread-5] Generating issue list, count = 36
+2019-10-04 11:38:24,574 INFO Traces [Thread-5] Generating issue list, count = 37
+2019-10-04 11:38:24,642 INFO Traces [Thread-5] Generating issue list, count = 38
+2019-10-04 11:38:24,724 INFO Traces [Thread-5] Generating issue list, count = 39
+2019-10-04 11:38:24,822 INFO Traces [Thread-5] Generating issue list, count = 40
+2019-10-04 11:38:24,913 INFO Traces [Thread-5] Generating issue list, count = 41
+2019-10-04 11:38:24,998 INFO Traces [Thread-5] Generating issue list, count = 42
+2019-10-04 11:38:25,085 INFO Traces [Thread-5] Generating issue list, count = 43
+2019-10-04 11:38:25,205 INFO Traces [Thread-5] Generating issue list, count = 44
+2019-10-04 11:38:25,287 INFO Traces [Thread-5] Generating issue list, count = 45
+2019-10-04 11:38:25,375 INFO Traces [Thread-5] Generating issue list, count = 46
+2019-10-04 11:38:25,446 INFO Traces [Thread-5] Generating issue list, count = 47
+2019-10-04 11:38:25,533 INFO Traces [Thread-5] Generating issue list, count = 48
+2019-10-04 11:38:25,596 INFO Traces [Thread-5] Generating issue list, count = 49
+2019-10-04 11:38:25,665 INFO Traces [Thread-5] Generating issue list, count = 50
+2019-10-04 11:38:25,734 INFO Traces [Thread-5] Generating issue list, count = 51
+2019-10-04 11:38:25,819 INFO Traces [Thread-5] Generating issue list, count = 52
+2019-10-04 11:38:25,890 INFO Traces [Thread-5] Generating issue list, count = 53
+2019-10-04 11:38:25,967 INFO Traces [Thread-5] Generating issue list, count = 54
+2019-10-04 11:38:26,040 INFO Traces [Thread-5] Generating issue list, count = 55
+2019-10-04 11:38:26,142 INFO Traces [Thread-5] Generating issue list, count = 56
+2019-10-04 11:38:26,236 INFO Traces [Thread-5] Generating issue list, count = 57
+2019-10-04 11:38:26,306 INFO Traces [Thread-5] Generating issue list, count = 58
+2019-10-04 11:38:26,379 INFO Traces [Thread-5] Generating issue list, count = 59
+2019-10-04 11:38:26,464 INFO Traces [Thread-5] Generating issue list, count = 60
+2019-10-04 11:38:26,535 INFO Traces [Thread-5] Generating issue list, count = 61
+2019-10-04 11:38:26,607 INFO Traces [Thread-5] Generating issue list, count = 62
+2019-10-04 11:38:26,698 INFO Traces [Thread-5] Generating issue list, count = 63
+2019-10-04 11:38:26,770 INFO Traces [Thread-5] Generating issue list, count = 64
+2019-10-04 11:38:26,842 INFO Traces [Thread-5] Generating issue list, count = 65
+2019-10-04 11:38:26,904 INFO Traces [Thread-5] Generating issue list, count = 66
+2019-10-04 11:38:26,970 INFO Traces [Thread-5] Generating issue list, count = 67
+2019-10-04 11:38:27,071 INFO Traces [Thread-5] Generating issue list, count = 68
+2019-10-04 11:38:27,155 INFO Traces [Thread-5] Generating issue list, count = 69
+2019-10-04 11:38:27,223 INFO Traces [Thread-5] Generating issue list, count = 70
+2019-10-04 11:38:27,296 INFO Traces [Thread-5] Generating issue list, count = 71
+2019-10-04 11:38:27,451 INFO Traces [Thread-5] Generating issue list, count = 72
+2019-10-04 11:38:27,517 INFO Traces [Thread-5] Generating issue list, count = 73
+2019-10-04 11:38:27,579 INFO Traces [Thread-5] Generating issue list, count = 74
+2019-10-04 11:38:27,640 INFO Traces [Thread-5] Generating issue list, count = 75
+2019-10-04 11:38:27,711 INFO Traces [Thread-5] Generating issue list, count = 76
+2019-10-04 11:38:27,780 INFO Traces [Thread-5] Generating issue list, count = 77
+2019-10-04 11:38:27,838 INFO Traces [Thread-5] Generating issue list, count = 78
+2019-10-04 11:38:27,936 INFO Traces [Thread-5] Generating issue list, count = 79
+2019-10-04 11:38:28,003 INFO Traces [Thread-5] Generating issue list, count = 80
+2019-10-04 11:38:28,071 INFO Traces [Thread-5] Generating issue list, count = 81
+2019-10-04 11:38:28,161 INFO Traces [Thread-5] Generating issue list, count = 82
+2019-10-04 11:38:28,249 INFO Traces [Thread-5] Generating issue list, count = 83
+2019-10-04 11:38:28,338 INFO Traces [Thread-5] Generating issue list, count = 84
+2019-10-04 11:38:28,450 INFO Traces [Thread-5] Generating issue list, count = 85
+2019-10-04 11:38:28,528 INFO Traces [Thread-5] Generating issue list, count = 86
+2019-10-04 11:38:28,585 INFO Traces [Thread-5] Generating issue list, count = 87
+2019-10-04 11:38:28,656 INFO Traces [Thread-5] Generating issue list, count = 88
+2019-10-04 11:38:28,733 INFO Traces [Thread-5] Generating issue list, count = 89
+2019-10-04 11:38:28,802 INFO Traces [Thread-5] Generating issue list, count = 90
+2019-10-04 11:38:28,876 INFO Traces [Thread-5] Generating issue list, count = 91
+2019-10-04 11:38:28,961 INFO Traces [Thread-5] Generating issue list, count = 92
+2019-10-04 11:38:29,028 INFO Traces [Thread-5] Generating issue list, count = 93
+2019-10-04 11:38:29,093 INFO Traces [Thread-5] Generating issue list, count = 94
+2019-10-04 11:38:29,155 INFO Traces [Thread-5] Generating issue list, count = 95
+2019-10-04 11:38:29,221 INFO Traces [Thread-5] Generating issue list, count = 96
+2019-10-04 11:38:29,283 INFO Traces [Thread-5] Generating issue list, count = 97
+2019-10-04 11:38:29,357 INFO Traces [Thread-5] Generating issue list, count = 98
+2019-10-04 11:38:29,432 INFO Traces [Thread-5] Generating issue list, count = 99
+2019-10-04 11:38:29,528 INFO Traces [Thread-5] Generating issue list, count = 100
+2019-10-04 11:38:29,625 INFO Traces [Thread-5] Generating issue list, count = 101
+2019-10-04 11:38:29,684 INFO Traces [Thread-5] Generating issue list, count = 102
+2019-10-04 11:38:29,749 INFO Traces [Thread-5] Generating issue list, count = 103
+2019-10-04 11:38:29,812 INFO Traces [Thread-5] Generating issue list, count = 104
+2019-10-04 11:38:29,881 INFO Traces [Thread-5] Generating issue list, count = 105
+2019-10-04 11:38:29,942 INFO Traces [Thread-5] Generating issue list, count = 106
+2019-10-04 11:38:30,017 INFO Traces [Thread-5] Generating issue list, count = 107
+2019-10-04 11:38:30,095 INFO Traces [Thread-5] Generating issue list, count = 108
+2019-10-04 11:38:30,172 INFO Traces [Thread-5] Generating issue list, count = 109
+2019-10-04 11:38:45,249 INFO Traces [Thread-5] List successfully generated
+2019-10-04 11:38:45,249 INFO Traces [Thread-5] Applying filter
+2019-10-04 11:38:45,250 INFO Traces [Thread-5] Updated list: (count = 36)
+2019-10-04 11:38:45,250 INFO Traces [Thread-5] WNOG1304, Date = 2019-01-15, Status = test passed, Classification = Minor Fault
+2019-10-04 11:38:45,250 INFO Traces [Thread-5] WNOG1354, Date = 2019-01-22, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,250 INFO Traces [Thread-5] WNOG1355, Date = 2019-01-23, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,250 INFO Traces [Thread-5] WNOG1359, Date = 2019-01-22, Status = test passed, Classification = Minor Fault
+2019-10-04 11:38:45,250 INFO Traces [Thread-5] WNOG1376, Date = 2019-03-07, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,250 INFO Traces [Thread-5] WNOG1385, Date = 2019-01-11, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,250 INFO Traces [Thread-5] WNOG1388, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,250 INFO Traces [Thread-5] WNOG1394, Date = 2019-01-22, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,250 INFO Traces [Thread-5] WNOG1395, Date = 2019-01-22, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,251 INFO Traces [Thread-5] WNOG1399, Date = 2019-01-22, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,251 INFO Traces [Thread-5] WNOG1401, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,251 INFO Traces [Thread-5] WNOG1403, Date = 2019-01-22, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,251 INFO Traces [Thread-5] WNOG1404, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,251 INFO Traces [Thread-5] WNOG1405, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,251 INFO Traces [Thread-5] WNOG1406, Date = 2019-01-22, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,251 INFO Traces [Thread-5] WNOG1407, Date = 2019-01-27, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,251 INFO Traces [Thread-5] WNOG1410, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,251 INFO Traces [Thread-5] WNOG1411, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,251 INFO Traces [Thread-5] WNOG1413, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,251 INFO Traces [Thread-5] WNOG1415, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,251 INFO Traces [Thread-5] WNOG1416, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,251 INFO Traces [Thread-5] WNOG1417, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,252 INFO Traces [Thread-5] WNOG1418, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,252 INFO Traces [Thread-5] WNOG1419, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,252 INFO Traces [Thread-5] WNOG1420, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,252 INFO Traces [Thread-5] WNOG1421, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,252 INFO Traces [Thread-5] WNOG1424, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,252 INFO Traces [Thread-5] WNOG1425, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,252 INFO Traces [Thread-5] WNOG1429, Date = 2019-02-21, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,252 INFO Traces [Thread-5] WNOG1430, Date = 2019-02-21, Status = test passed, Classification = Minor Fault
+2019-10-04 11:38:45,252 INFO Traces [Thread-5] WNOG1434, Date = 2019-02-25, Status = test passed, Classification = Minor Fault
+2019-10-04 11:38:45,252 INFO Traces [Thread-5] WNOG1437, Date = 2019-03-06, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,252 INFO Traces [Thread-5] WNOG1438, Date = 2019-02-22, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,252 INFO Traces [Thread-5] WNOG1441, Date = 2019-02-22, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:45,252 INFO Traces [Thread-5] WNOG1454, Date = 2019-03-29, Status = test passed, Classification = Just a hint
+2019-10-04 11:38:45,253 INFO Traces [Thread-5] WNOG1459, Date = 2019-04-04, Status = test passed, Classification = Medium Fault
+2019-10-04 11:38:56,518 INFO Traces [Thread-5] Validating issue WNOG1304, Date = 2019-01-15
+2019-10-04 11:38:56,804 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:39:00,522 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:39:00,869 INFO Traces [Thread-5] Done, closed WNOG1304
+2019-10-04 11:39:12,776 INFO Traces [Thread-5] Validating issue WNOG1354, Date = 2019-01-22
+2019-10-04 11:39:13,066 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:39:17,006 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:39:17,353 INFO Traces [Thread-5] Done, closed WNOG1354
+2019-10-04 11:39:29,103 INFO Traces [Thread-5] Validating issue WNOG1355, Date = 2019-01-23
+2019-10-04 11:39:29,368 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:39:32,982 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:39:33,310 INFO Traces [Thread-5] Done, closed WNOG1355
+2019-10-04 11:39:44,984 INFO Traces [Thread-5] Validating issue WNOG1359, Date = 2019-01-22
+2019-10-04 11:39:45,258 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:39:48,916 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:39:49,247 INFO Traces [Thread-5] Done, closed WNOG1359
+2019-10-04 11:40:00,920 INFO Traces [Thread-5] Validating issue WNOG1376, Date = 2019-03-07
+2019-10-04 11:40:01,191 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:40:04,805 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:40:05,112 INFO Traces [Thread-5] Done, closed WNOG1376
+2019-10-04 11:40:17,421 INFO Traces [Thread-5] Validating issue WNOG1385, Date = 2019-01-11
+2019-10-04 11:40:17,687 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:40:21,302 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:40:21,671 INFO Traces [Thread-5] Done, closed WNOG1385
+2019-10-04 11:40:33,673 INFO Traces [Thread-5] Validating issue WNOG1388, Date = 2019-02-21
+2019-10-04 11:40:33,946 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:40:37,583 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:40:37,909 INFO Traces [Thread-5] Done, closed WNOG1388
+2019-10-04 11:40:49,842 INFO Traces [Thread-5] Validating issue WNOG1394, Date = 2019-01-22
+2019-10-04 11:40:50,105 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:40:53,735 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:40:54,060 INFO Traces [Thread-5] Done, closed WNOG1394
+2019-10-04 11:41:05,664 INFO Traces [Thread-5] Validating issue WNOG1395, Date = 2019-01-22
+2019-10-04 11:41:05,944 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:41:09,519 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:41:09,845 INFO Traces [Thread-5] Done, closed WNOG1395
+2019-10-04 11:41:21,531 INFO Traces [Thread-5] Validating issue WNOG1399, Date = 2019-01-22
+2019-10-04 11:41:21,802 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:41:25,368 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:41:25,691 INFO Traces [Thread-5] Done, closed WNOG1399
+2019-10-04 11:41:37,619 INFO Traces [Thread-5] Validating issue WNOG1401, Date = 2019-02-21
+2019-10-04 11:41:37,892 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:41:41,609 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:41:43,471 INFO Traces [Thread-5] Done, closed WNOG1401
+2019-10-04 11:41:55,385 INFO Traces [Thread-5] Validating issue WNOG1403, Date = 2019-01-22
+2019-10-04 11:41:55,646 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:41:59,245 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:41:59,547 INFO Traces [Thread-5] Done, closed WNOG1403
+2019-10-04 11:42:11,812 INFO Traces [Thread-5] Validating issue WNOG1404, Date = 2019-02-21
+2019-10-04 11:42:12,080 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:42:16,260 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:42:16,573 INFO Traces [Thread-5] Done, closed WNOG1404
+2019-10-04 11:42:30,159 INFO Traces [Thread-5] Validating issue WNOG1405, Date = 2019-02-21
+2019-10-04 11:42:30,425 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:42:34,194 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:42:34,513 INFO Traces [Thread-5] Done, closed WNOG1405
+2019-10-04 11:42:46,237 INFO Traces [Thread-5] Validating issue WNOG1406, Date = 2019-01-22
+2019-10-04 11:42:46,501 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:42:50,129 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:42:50,436 INFO Traces [Thread-5] Done, closed WNOG1406
+2019-10-04 11:43:02,146 INFO Traces [Thread-5] Validating issue WNOG1407, Date = 2019-01-27
+2019-10-04 11:43:02,407 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:43:06,064 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:43:06,374 INFO Traces [Thread-5] Done, closed WNOG1407
+2019-10-04 11:43:18,045 INFO Traces [Thread-5] Validating issue WNOG1410, Date = 2019-02-21
+2019-10-04 11:43:18,322 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:43:21,977 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:43:22,316 INFO Traces [Thread-5] Done, closed WNOG1410
+2019-10-04 11:43:34,079 INFO Traces [Thread-5] Validating issue WNOG1411, Date = 2019-02-21
+2019-10-04 11:43:34,346 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:43:37,964 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:43:38,313 INFO Traces [Thread-5] Done, closed WNOG1411
+2019-10-04 11:43:50,184 INFO Traces [Thread-5] Validating issue WNOG1413, Date = 2019-02-21
+2019-10-04 11:43:50,460 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:43:54,125 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:43:54,458 INFO Traces [Thread-5] Done, closed WNOG1413
+2019-10-04 11:44:06,479 INFO Traces [Thread-5] Validating issue WNOG1415, Date = 2019-02-21
+2019-10-04 11:44:06,747 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:44:10,381 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:44:10,702 INFO Traces [Thread-5] Done, closed WNOG1415
+2019-10-04 11:44:22,485 INFO Traces [Thread-5] Validating issue WNOG1416, Date = 2019-02-21
+2019-10-04 11:44:22,750 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:44:26,383 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:44:26,693 INFO Traces [Thread-5] Done, closed WNOG1416
+2019-10-04 11:44:38,500 INFO Traces [Thread-5] Validating issue WNOG1417, Date = 2019-02-21
+2019-10-04 11:44:38,784 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:44:42,502 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:44:42,811 INFO Traces [Thread-5] Done, closed WNOG1417
+2019-10-04 11:44:54,554 INFO Traces [Thread-5] Validating issue WNOG1418, Date = 2019-02-21
+2019-10-04 11:44:54,815 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:44:58,454 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:44:58,770 INFO Traces [Thread-5] Done, closed WNOG1418
+2019-10-04 11:45:10,764 INFO Traces [Thread-5] Validating issue WNOG1419, Date = 2019-02-21
+2019-10-04 11:45:11,044 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:45:14,668 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:45:14,979 INFO Traces [Thread-5] Done, closed WNOG1419
+2019-10-04 11:45:27,972 INFO Traces [Thread-5] Validating issue WNOG1420, Date = 2019-02-21
+2019-10-04 11:45:28,243 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:45:32,878 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:45:33,196 INFO Traces [Thread-5] Done, closed WNOG1420
+2019-10-04 11:45:47,986 INFO Traces [Thread-5] Validating issue WNOG1421, Date = 2019-02-21
+2019-10-04 11:45:48,262 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:45:52,433 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:45:52,756 INFO Traces [Thread-5] Done, closed WNOG1421
+2019-10-04 11:46:05,400 INFO Traces [Thread-5] Validating issue WNOG1424, Date = 2019-02-21
+2019-10-04 11:46:05,681 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:46:10,281 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:46:10,604 INFO Traces [Thread-5] Done, closed WNOG1424
+2019-10-04 11:46:25,430 INFO Traces [Thread-5] Validating issue WNOG1425, Date = 2019-02-21
+2019-10-04 11:46:25,698 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:46:30,090 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:46:30,403 INFO Traces [Thread-5] Done, closed WNOG1425
+2019-10-04 11:46:43,914 INFO Traces [Thread-5] Validating issue WNOG1429, Date = 2019-02-21
+2019-10-04 11:46:44,183 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:46:48,134 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:46:48,432 INFO Traces [Thread-5] Done, closed WNOG1429
+2019-10-04 11:47:00,000 INFO Traces [Thread-5] Validating issue WNOG1430, Date = 2019-02-21
+2019-10-04 11:47:00,256 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:47:03,842 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:47:04,156 INFO Traces [Thread-5] Done, closed WNOG1430
+2019-10-04 11:47:16,168 INFO Traces [Thread-5] Validating issue WNOG1434, Date = 2019-02-25
+2019-10-04 11:47:16,431 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:47:20,052 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:47:20,363 INFO Traces [Thread-5] Done, closed WNOG1434
+2019-10-04 11:47:32,190 INFO Traces [Thread-5] Validating issue WNOG1437, Date = 2019-03-06
+2019-10-04 11:47:32,451 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:47:36,065 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:47:36,404 INFO Traces [Thread-5] Done, closed WNOG1437
+2019-10-04 11:47:48,242 INFO Traces [Thread-5] Validating issue WNOG1438, Date = 2019-02-22
+2019-10-04 11:47:48,533 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:47:52,138 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:47:52,476 INFO Traces [Thread-5] Done, closed WNOG1438
+2019-10-04 11:48:04,127 INFO Traces [Thread-5] Validating issue WNOG1441, Date = 2019-02-22
+2019-10-04 11:48:04,393 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:48:07,984 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:48:08,310 INFO Traces [Thread-5] Done, closed WNOG1441
+2019-10-04 11:48:19,922 INFO Traces [Thread-5] Validating issue WNOG1454, Date = 2019-03-29
+2019-10-04 11:48:20,201 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:48:23,757 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:48:24,078 INFO Traces [Thread-5] Done, closed WNOG1454
+2019-10-04 11:48:35,660 INFO Traces [Thread-5] Validating issue WNOG1459, Date = 2019-04-04
+2019-10-04 11:48:35,928 INFO Traces [Thread-5] Issue status = test passed
+2019-10-04 11:48:39,639 INFO Traces [Thread-5] Closing issue!
+2019-10-04 11:48:39,955 INFO Traces [Thread-5] Done, closed WNOG1459
+2019-10-04 11:48:39,955 INFO Traces [Thread-5] All issue destroyed \o/
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] No ignored issues
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] Closed issues: (count = 36)
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] WNOG1304
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] WNOG1354
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] WNOG1355
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] WNOG1359
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] WNOG1376
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] WNOG1385
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] WNOG1388
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] WNOG1394
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] WNOG1395
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] WNOG1399
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] WNOG1401
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] WNOG1403
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] WNOG1404
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] WNOG1405
+2019-10-04 11:48:39,956 INFO Traces [Thread-5] WNOG1406
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1407
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1410
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1411
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1413
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1415
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1416
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1417
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1418
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1419
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1420
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1421
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1424
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1425
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1429
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1430
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1434
+2019-10-04 11:48:39,957 INFO Traces [Thread-5] WNOG1437
+2019-10-04 11:48:39,958 INFO Traces [Thread-5] WNOG1438
+2019-10-04 11:48:39,958 INFO Traces [Thread-5] WNOG1441
+2019-10-04 11:48:39,958 INFO Traces [Thread-5] WNOG1454
+2019-10-04 11:48:39,958 INFO Traces [Thread-5] WNOG1459
+2019-10-04 11:48:42,873 ERROR Traces [Thread-5] Driver stopped!
+2019-10-04 11:53:19,165 INFO Traces [Thread-6] Starting FirefoxDriver
+2019-10-04 11:53:19,165 INFO Traces [Thread-6] Parameters {Issue type = WNOG, Issue status = released, Issue classification = ALL, Begin date = 2014-01-01, End date = 2019-04-26}
+2019-10-04 11:53:34,038 INFO Traces [Thread-6] Checking user Login
+2019-10-04 11:53:34,069 ERROR Traces [Thread-6] User Login - FALSE
+2019-10-04 11:53:34,069 INFO Traces [Thread-6] Logging...
+2019-10-04 11:53:43,838 INFO Traces [Thread-6] Loading issue array list, waiting for full page load 1 min...
+2019-10-04 11:54:05,296 INFO Traces [Thread-6] List page - true
+2019-10-04 11:54:09,337 INFO Traces [Thread-6] Generating issue list, count = 1
+2019-10-04 11:54:09,498 INFO Traces [Thread-6] Generating issue list, count = 2
+2019-10-04 11:54:09,562 INFO Traces [Thread-6] Generating issue list, count = 3
+2019-10-04 11:54:09,645 INFO Traces [Thread-6] Generating issue list, count = 4
+2019-10-04 11:54:09,725 INFO Traces [Thread-6] Generating issue list, count = 5
+2019-10-04 11:54:09,790 INFO Traces [Thread-6] Generating issue list, count = 6
+2019-10-04 11:54:09,850 INFO Traces [Thread-6] Generating issue list, count = 7
+2019-10-04 11:54:09,919 INFO Traces [Thread-6] Generating issue list, count = 8
+2019-10-04 11:54:09,979 INFO Traces [Thread-6] Generating issue list, count = 9
+2019-10-04 11:54:10,049 INFO Traces [Thread-6] Generating issue list, count = 10
+2019-10-04 11:54:10,105 INFO Traces [Thread-6] Generating issue list, count = 11
+2019-10-04 11:54:10,169 INFO Traces [Thread-6] Generating issue list, count = 12
+2019-10-04 11:54:10,338 INFO Traces [Thread-6] Generating issue list, count = 13
+2019-10-04 11:54:10,391 INFO Traces [Thread-6] Generating issue list, count = 14
+2019-10-04 11:54:10,447 INFO Traces [Thread-6] Generating issue list, count = 15
+2019-10-04 11:54:10,504 INFO Traces [Thread-6] Generating issue list, count = 16
+2019-10-04 11:54:10,557 INFO Traces [Thread-6] Generating issue list, count = 17
+2019-10-04 11:54:10,612 INFO Traces [Thread-6] Generating issue list, count = 18
+2019-10-04 11:54:10,673 INFO Traces [Thread-6] Generating issue list, count = 19
+2019-10-04 11:54:10,731 INFO Traces [Thread-6] Generating issue list, count = 20
+2019-10-04 11:54:10,796 INFO Traces [Thread-6] Generating issue list, count = 21
+2019-10-04 11:54:10,853 INFO Traces [Thread-6] Generating issue list, count = 22
+2019-10-04 11:54:10,912 INFO Traces [Thread-6] Generating issue list, count = 23
+2019-10-04 11:54:10,971 INFO Traces [Thread-6] Generating issue list, count = 24
+2019-10-04 11:54:11,030 INFO Traces [Thread-6] Generating issue list, count = 25
+2019-10-04 11:54:11,086 INFO Traces [Thread-6] Generating issue list, count = 26
+2019-10-04 11:54:11,146 INFO Traces [Thread-6] Generating issue list, count = 27
+2019-10-04 11:54:11,227 INFO Traces [Thread-6] Generating issue list, count = 28
+2019-10-04 11:54:11,300 INFO Traces [Thread-6] Generating issue list, count = 29
+2019-10-04 11:54:11,359 INFO Traces [Thread-6] Generating issue list, count = 30
+2019-10-04 11:54:11,415 INFO Traces [Thread-6] Generating issue list, count = 31
+2019-10-04 11:54:11,480 INFO Traces [Thread-6] Generating issue list, count = 32
+2019-10-04 11:54:11,540 INFO Traces [Thread-6] Generating issue list, count = 33
+2019-10-04 11:54:11,612 INFO Traces [Thread-6] Generating issue list, count = 34
+2019-10-04 11:54:11,682 INFO Traces [Thread-6] Generating issue list, count = 35
+2019-10-04 11:54:11,741 INFO Traces [Thread-6] Generating issue list, count = 36
+2019-10-04 11:54:11,806 INFO Traces [Thread-6] Generating issue list, count = 37
+2019-10-04 11:54:11,890 INFO Traces [Thread-6] Generating issue list, count = 38
+2019-10-04 11:54:11,956 INFO Traces [Thread-6] Generating issue list, count = 39
+2019-10-04 11:54:12,032 INFO Traces [Thread-6] Generating issue list, count = 40
+2019-10-04 11:54:12,087 INFO Traces [Thread-6] Generating issue list, count = 41
+2019-10-04 11:54:12,148 INFO Traces [Thread-6] Generating issue list, count = 42
+2019-10-04 11:54:12,219 INFO Traces [Thread-6] Generating issue list, count = 43
+2019-10-04 11:54:12,279 INFO Traces [Thread-6] Generating issue list, count = 44
+2019-10-04 11:54:12,364 INFO Traces [Thread-6] Generating issue list, count = 45
+2019-10-04 11:54:12,437 INFO Traces [Thread-6] Generating issue list, count = 46
+2019-10-04 11:54:12,507 INFO Traces [Thread-6] Generating issue list, count = 47
+2019-10-04 11:54:12,575 INFO Traces [Thread-6] Generating issue list, count = 48
+2019-10-04 11:54:12,640 INFO Traces [Thread-6] Generating issue list, count = 49
+2019-10-04 11:54:12,700 INFO Traces [Thread-6] Generating issue list, count = 50
+2019-10-04 11:54:12,756 INFO Traces [Thread-6] Generating issue list, count = 51
+2019-10-04 11:54:12,828 INFO Traces [Thread-6] Generating issue list, count = 52
+2019-10-04 11:54:12,904 INFO Traces [Thread-6] Generating issue list, count = 53
+2019-10-04 11:54:12,974 INFO Traces [Thread-6] Generating issue list, count = 54
+2019-10-04 11:54:13,071 INFO Traces [Thread-6] Generating issue list, count = 55
+2019-10-04 11:54:13,149 INFO Traces [Thread-6] Generating issue list, count = 56
+2019-10-04 11:54:13,213 INFO Traces [Thread-6] Generating issue list, count = 57
+2019-10-04 11:54:13,270 INFO Traces [Thread-6] Generating issue list, count = 58
+2019-10-04 11:54:13,326 INFO Traces [Thread-6] Generating issue list, count = 59
+2019-10-04 11:54:13,391 INFO Traces [Thread-6] Generating issue list, count = 60
+2019-10-04 11:54:13,460 INFO Traces [Thread-6] Generating issue list, count = 61
+2019-10-04 11:54:13,516 INFO Traces [Thread-6] Generating issue list, count = 62
+2019-10-04 11:54:13,572 INFO Traces [Thread-6] Generating issue list, count = 63
+2019-10-04 11:54:13,633 INFO Traces [Thread-6] Generating issue list, count = 64
+2019-10-04 11:54:13,695 INFO Traces [Thread-6] Generating issue list, count = 65
+2019-10-04 11:54:13,755 INFO Traces [Thread-6] Generating issue list, count = 66
+2019-10-04 11:54:13,822 INFO Traces [Thread-6] Generating issue list, count = 67
+2019-10-04 11:54:13,881 INFO Traces [Thread-6] Generating issue list, count = 68
+2019-10-04 11:54:13,941 INFO Traces [Thread-6] Generating issue list, count = 69
+2019-10-04 11:54:14,005 INFO Traces [Thread-6] Generating issue list, count = 70
+2019-10-04 11:54:14,087 INFO Traces [Thread-6] Generating issue list, count = 71
+2019-10-04 11:54:14,190 INFO Traces [Thread-6] Generating issue list, count = 72
+2019-10-04 11:54:14,302 INFO Traces [Thread-6] Generating issue list, count = 73
+2019-10-04 11:54:29,411 INFO Traces [Thread-6] List successfully generated
+2019-10-04 11:54:29,411 INFO Traces [Thread-6] Applying filter
+2019-10-04 11:54:29,412 ERROR Traces [Thread-6] List is empty!
+2019-10-04 11:54:31,428 ERROR Traces [Thread-6] Driver stopped!
