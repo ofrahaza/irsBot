@@ -176,7 +176,6 @@ public class Controller extends Thread {
 
             try {
                 driver.switchTo().defaultContent();
-
                 //Navigate to list frame
                 WebElement iFrameList = driver.findElement(By.xpath("/html/frameset/frameset/frame[2]"));
                 driver.switchTo().frame(iFrameList);
@@ -292,7 +291,8 @@ public class Controller extends Thread {
                 if (statusIssue.equals(IssueStatus.REJECTED.getName()) ||
                         statusIssue.equals(IssueStatus.MORE_INFO_REQUESTED.getName()) ||
                         statusIssue.equals(IssueStatus.TEST_PASSED.getName()) ||
-                        statusIssue.equals(IssueStatus.TEST_FAILED.getName())) {
+                        statusIssue.equals(IssueStatus.TEST_FAILED.getName()) ||
+                        statusIssue.equals(IssueStatus.RELEASED.getName())) {
                     followupStatus.selectByValue("256");
                     try {
                         Thread.sleep(2500);
